@@ -1,5 +1,3 @@
-# Natasha - Fullstack Frontend Developer
-
 ![Natasha](https://github.com/natashagomesr/natashagomesr/assets/98358842/e6367024-fff4-42b7-b25b-aab1eb8cffa9)
 
 ## Hi there! 👋
