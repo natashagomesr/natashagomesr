@@ -18,11 +18,16 @@ Here are two of my highlighted projects that demonstrate my skills and creativit
 
 ### Project 1: [Personare project](https://github.com/natashagomesr/personare-code-challenge)
 
-WIP
+<img width="1675" alt="Screen Shot 2023-06-15 at 20 28 40" src="https://github.com/natashagomesr/natashagomesr/assets/98358842/de853450-ec01-483a-8dc4-3a461ee6e38e">
+
+
+
 
 ### Project 2: [Promobit project](https://github.com/natashagomesr/promobit-code-challenge)
 
-WIP
+<img width="1678" alt="image" src="https://github.com/natashagomesr/natashagomesr/assets/98358842/c519aab6-b10a-4998-9cee-1ff3ac072d12">
+
+
 
 Feel free to explore my other projects on my [GitHub repositories](https://github.com/natashagomesr).
 
